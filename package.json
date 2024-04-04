@@ -2,7 +2,7 @@
     "name": "dbgate-plugin-cleanify",
     "version": "1.0.0",
     "license": "MIT",
-    "description": "Fill description and icon link ![icon](https://raw.githubusercontent.com/dbgate/dbgate/master/packages/web/public/unknown.svg)",
+    "description": "Fill description and icon link ![icon](https://raw.githubusercontent.com/Morten010/dbgate-plugin-cleanify/main/icon.svg)",
     "author": "Morten010",
     "keywords": [
       "dbgate",
