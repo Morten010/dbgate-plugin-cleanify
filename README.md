@@ -5,4 +5,4 @@
 
 Nice clean blue theme for dbgate
 
-![Plugin showcase](raw.githubusercontent.com/Morten010/dbgate-plugin-cleanify/main/image.png)
+![Plugin showcase](https://raw.githubusercontent.com/Morten010/dbgate-plugin-cleanify/main/image.png)
